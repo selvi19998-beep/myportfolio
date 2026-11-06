@@ -108,7 +108,7 @@ section h2 {
 }
 
 .project h3 {
-    color: #d4af37;
+    color: #375cd4;
     margin-bottom: 10px;
 }
 
@@ -236,7 +236,7 @@ footer {
     font-weight: bold;
 }
 #contact button {
-    background: gold;
+    background: rgb(17, 0, 255);
     color: black;
     padding: 13px 30px;
     border: none;
