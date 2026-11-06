@@ -243,4 +243,21 @@ footer {
     border-radius: 25px;
     cursor: pointer;
     font-weight: bold;
+
+}
+a {
+    color: gold !important;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white !important;
+}
+a {
+    color: gold !important;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white !important;
 }
